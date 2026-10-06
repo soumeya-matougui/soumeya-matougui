@@ -25,4 +25,7 @@ I build projects in **web development** and **cybersecurity**, drawing on my bac
 - French (C1) · English (C2) · Arabic (native)
 
 ## Projects
-Coming soon: portfolio, e-commerce website, web applications.
+- **[Personal Portfolio](https://soumeya-matougui.github.io)**: responsive website built with HTML & CSS (Flexbox, Grid, SEO), deployed with GitHub Pages. [Source code](https://github.com/soumeya-matougui/soumeya-matougui.github.io)
+- **E-commerce website**: coming soon.
+
+**Portfolio:** [soumeya-matougui.github.io](https://soumeya-matougui.github.io)
