@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Soumeya Matougui 
 
-<!--
-**soumeya-matougui/soumeya-matougui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & Telecommunications Engineer (Master's degree, USTHB – Algiers).
+I build projects in **web development** and **cybersecurity**, drawing on my background in networks.
 
-Here are some ideas to get you started:
+## Education
+- Master's in Networks & Telecommunications – USTHB (2025)
+- Bachelor's in Telecommunications – USTHB (2022)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming:** Python, JavaScript, HTML/CSS
+- **Databases:** SQL, MongoDB
+- **Networks:** IP routing, wireless networks, VoIP, Linux, Cisco Packet Tracer
+- **Cloud:** Microsoft Azure
+- **Security:** cryptography, network security
+- **Web:** SEO, Shopify
+
+## Certifications
+- HackerRank – Python (Basic)
+- HackerRank – Problem Solving (Basic)
+- GOMYCODE – Machine Learning
+- Semrush – SEO
+
+## Languages
+- French (C1) · English (C2) · Arabic (native)
+
+## Projects
+Coming soon: portfolio, e-commerce website, web applications.
